@@ -1,0 +1,28 @@
+body {
+    background-color: #4FBDBA; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #072227;
+    line-height:2rem;
+}
+hr{
+    border:10px dotted;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 30%;
+    margin-top: 10%;
+    
+}
+img{
+    height: auto;
+    width: auto;
+    float:right;
+    position: relative;
+    right:20%;
+    border-radius: 100%;
+    
+}
+div{
+    margin :100px auto;
+}
